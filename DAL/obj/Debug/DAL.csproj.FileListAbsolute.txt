@@ -1,0 +1,12 @@
+D:\WEB\TestRemote\OrdersPets\DAL\bin\Debug\DAL.dll.config
+D:\WEB\TestRemote\OrdersPets\DAL\bin\Debug\DAL.dll
+D:\WEB\TestRemote\OrdersPets\DAL\bin\Debug\DAL.pdb
+D:\WEB\TestRemote\OrdersPets\DAL\obj\Debug\DAL.dll
+D:\WEB\TestRemote\OrdersPets\DAL\obj\Debug\DAL.pdb
+d:\WEB\TestRemote\Copy\OrdersPets\DAL\bin\Debug\DAL.dll.config
+d:\WEB\TestRemote\Copy\OrdersPets\DAL\bin\Debug\DAL.dll
+d:\WEB\TestRemote\Copy\OrdersPets\DAL\bin\Debug\DAL.pdb
+d:\WEB\TestRemote\Copy\OrdersPets\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+d:\WEB\TestRemote\Copy\OrdersPets\DAL\obj\Debug\DAL.dll
+d:\WEB\TestRemote\Copy\OrdersPets\DAL\obj\Debug\DAL.pdb
+d:\WEB\TestRemote\OrdersPets\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache

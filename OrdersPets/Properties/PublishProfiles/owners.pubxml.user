@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\WEB\TestRemote\Publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/BLL.dll">
+      <publishTime>06/03/2017 03:11:43</publishTime>
+    </File>
+    <File Include="bin/DAL.dll">
+      <publishTime>06/03/2017 03:11:42</publishTime>
+    </File>
+    <File Include="bin/OrdersPets.dll">
+      <publishTime>06/03/2017 03:35:00</publishTime>
+    </File>
+    <File Include="Content/font-awesome.css">
+      <publishTime>06/03/2017 03:32:07</publishTime>
+    </File>
+    <File Include="Content/font-awesome.min.css">
+      <publishTime>06/03/2017 03:32:07</publishTime>
+    </File>
+    <File Include="css/bootstrap-theme.min.css">
+      <publishTime>07/25/2016 15:53:28</publishTime>
+    </File>
+    <File Include="css/bootstrap.min.css">
+      <publishTime>07/25/2016 15:53:28</publishTime>
+    </File>
+    <File Include="css/font-awesome.min.css">
+      <publishTime>05/23/2017 16:43:54</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.eot">
+      <publishTime>02/06/2017 21:04:15</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.svg">
+      <publishTime>02/06/2017 21:04:14</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.ttf">
+      <publishTime>02/06/2017 21:04:14</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.woff">
+      <publishTime>02/06/2017 21:04:14</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.woff2">
+      <publishTime>02/06/2017 21:04:14</publishTime>
+    </File>
+    <File Include="fonts/FontAwesome.otf">
+      <publishTime>02/06/2017 21:04:14</publishTime>
+    </File>
+    <File Include="index.html">
+      <publishTime>03/06/2017 00:01:28</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>06/03/2017 03:32:07</publishTime>
+    </File>
+    <File Include="scripts/app.js">
+      <publishTime>03/06/2017 01:14:19</publishTime>
+    </File>
+    <File Include="scripts/contollers/PetController.js">
+      <publishTime>03/06/2017 02:36:49</publishTime>
+    </File>
+    <File Include="scripts/contollers/UserController.js">
+      <publishTime>03/06/2017 01:14:28</publishTime>
+    </File>
+    <File Include="scripts/lib/angular-route.min.js">
+      <publishTime>02/06/2017 18:38:53</publishTime>
+    </File>
+    <File Include="scripts/lib/angular.min.js">
+      <publishTime>03/06/2017 00:00:20</publishTime>
+    </File>
+    <File Include="scripts/lib/bootstrap.min.js">
+      <publishTime>07/25/2016 15:53:30</publishTime>
+    </File>
+    <File Include="scripts/lib/jquery-3.1.1.min.js">
+      <publishTime>01/06/2017 17:10:34</publishTime>
+    </File>
+    <File Include="scripts/lib/ui-bootstrap-tpls.min.js">
+      <publishTime>01/06/2017 17:18:42</publishTime>
+    </File>
+    <File Include="scripts/lib/ui-bootstrap.js">
+      <publishTime>01/06/2017 17:09:46</publishTime>
+    </File>
+    <File Include="views/pets.html">
+      <publishTime>03/06/2017 02:35:47</publishTime>
+    </File>
+    <File Include="views/users.html">
+      <publishTime>03/06/2017 02:27:27</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/06/2017 03:11:43</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

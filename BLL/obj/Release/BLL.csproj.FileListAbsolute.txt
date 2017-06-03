@@ -1,0 +1,7 @@
+d:\WEB\TestRemote\OrdersPets\BLL\bin\Release\BLL.dll
+d:\WEB\TestRemote\OrdersPets\BLL\bin\Release\BLL.pdb
+d:\WEB\TestRemote\OrdersPets\BLL\bin\Release\DAL.dll
+d:\WEB\TestRemote\OrdersPets\BLL\bin\Release\DAL.pdb
+d:\WEB\TestRemote\OrdersPets\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+d:\WEB\TestRemote\OrdersPets\BLL\obj\Release\BLL.dll
+d:\WEB\TestRemote\OrdersPets\BLL\obj\Release\BLL.pdb

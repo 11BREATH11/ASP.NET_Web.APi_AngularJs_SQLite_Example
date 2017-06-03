@@ -1,0 +1,14 @@
+D:\WEB\TestRemote\OrdersPets\BLL\bin\Debug\BLL.dll
+D:\WEB\TestRemote\OrdersPets\BLL\bin\Debug\BLL.pdb
+D:\WEB\TestRemote\OrdersPets\BLL\obj\Debug\BLL.dll
+D:\WEB\TestRemote\OrdersPets\BLL\obj\Debug\BLL.pdb
+D:\WEB\TestRemote\OrdersPets\BLL\bin\Debug\DAL.dll
+D:\WEB\TestRemote\OrdersPets\BLL\bin\Debug\DAL.pdb
+D:\WEB\TestRemote\OrdersPets\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+d:\WEB\TestRemote\Copy\OrdersPets\BLL\bin\Debug\BLL.dll
+d:\WEB\TestRemote\Copy\OrdersPets\BLL\bin\Debug\BLL.pdb
+d:\WEB\TestRemote\Copy\OrdersPets\BLL\bin\Debug\DAL.dll
+d:\WEB\TestRemote\Copy\OrdersPets\BLL\bin\Debug\DAL.pdb
+d:\WEB\TestRemote\Copy\OrdersPets\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+d:\WEB\TestRemote\Copy\OrdersPets\BLL\obj\Debug\BLL.dll
+d:\WEB\TestRemote\Copy\OrdersPets\BLL\obj\Debug\BLL.pdb
