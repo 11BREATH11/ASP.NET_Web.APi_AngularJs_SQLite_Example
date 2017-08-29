@@ -1,6 +1,0 @@
-d:\WEB\TestRemote\OrdersPets\OrdersPets\bin\OrdersPets.dll.config
-d:\WEB\TestRemote\OrdersPets\OrdersPets\bin\OrdersPets.dll
-d:\WEB\TestRemote\OrdersPets\OrdersPets\bin\OrdersPets.pdb
-d:\WEB\TestRemote\OrdersPets\OrdersPets\obj\Release\OwnersPets.csprojResolveAssemblyReference.cache
-d:\WEB\TestRemote\OrdersPets\OrdersPets\obj\Release\OrdersPets.dll
-d:\WEB\TestRemote\OrdersPets\OrdersPets\obj\Release\OrdersPets.pdb

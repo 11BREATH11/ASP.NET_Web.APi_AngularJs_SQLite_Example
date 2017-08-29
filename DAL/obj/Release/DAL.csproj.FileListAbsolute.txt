@@ -1,6 +1,0 @@
-d:\WEB\TestRemote\OrdersPets\DAL\bin\Release\DAL.dll.config
-d:\WEB\TestRemote\OrdersPets\DAL\bin\Release\DAL.dll
-d:\WEB\TestRemote\OrdersPets\DAL\bin\Release\DAL.pdb
-d:\WEB\TestRemote\OrdersPets\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
-d:\WEB\TestRemote\OrdersPets\DAL\obj\Release\DAL.dll
-d:\WEB\TestRemote\OrdersPets\DAL\obj\Release\DAL.pdb

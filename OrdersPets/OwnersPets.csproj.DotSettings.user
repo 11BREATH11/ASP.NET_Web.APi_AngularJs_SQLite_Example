@@ -1,6 +1,0 @@
-﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/CodeInspection/WebPathMapping/IgnoredPaths/=_007B_007BUSER_002EID_007D_007D/@EntryIndexedValue">{{user.Id}}</s:String>
-	
-	<s:String x:Key="/Default/CodeInspection/WebPathMapping/MappedPaths/=VIEWS_005CPETS/@EntryIndexedValue"></s:String>
-	<s:String x:Key="/Default/CodeInspection/WebPathMapping/PathsInCorrectCasing/=VIEWS_005CPETS/@EntryIndexedValue">Views\Pets</s:String>
-	<s:String x:Key="/Default/CodeInspection/WebPathMapping/PathsInCorrectCasing/=_007B_007BUSER_002EID_007D_007D/@EntryIndexedValue">{{user.Id}}</s:String></wpf:ResourceDictionary>
