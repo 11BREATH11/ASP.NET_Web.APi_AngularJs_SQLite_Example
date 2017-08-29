@@ -45,3 +45,10 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+/.vs/config
+/.vs/OwnersPets/v15/sqlite3
+/BLL/obj/Debug
+/API/bin
+/API/obj/Debug
+/DAL/obj/Debug
+/OrdersPets/obj/Debug
