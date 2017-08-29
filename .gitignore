@@ -52,3 +52,9 @@ Temporary Items
 /API/obj/Debug
 /DAL/obj/Debug
 /OrdersPets/obj/Debug
+/.vs/OwnersPets/v15
+/API/API.csproj.user
+/BLL/bin/Debug
+/DAL/bin/Debug
+/OrdersPets/bin
+/packages
