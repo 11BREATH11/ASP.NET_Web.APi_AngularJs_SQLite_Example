@@ -1,5 +1,3 @@
-<a href="http://ownersjs.azurewebsites.net">http://ownersjs.azurewebsites.net</a>
-
 Implement the application
 using ASP.NET Web.APi + AngularJs + SQLite
  
